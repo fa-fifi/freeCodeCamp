@@ -1,0 +1,13 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "keywords": [],
+  "author": "fa-fifi",
+  "license": "ISC",
+  "type": "commonjs"
+}
